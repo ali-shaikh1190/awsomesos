@@ -2,9 +2,10 @@
     "AWSTemplateFormatVersion": "2010-09-09", 
     "Description": "DC/OS stack (3 AZs)", 
     "Metadata": {
-        "TemplateGenerationDate": "2016-06-29 17:02:00.000000", 
+        "TemplateGenerationDate": "2017-05-03 17:02:00.000000", 
         "DcosImageCommit": "0ce03387884523f02624d3fb56c7fbe2e06e181b", 
         "Todo": "/etc/hosts to include ip-x-x-x-x", 
+        "Author": "Qamar Ali Shaikh x Github:ali-shaikh1190", 
         "AWS::CloudFormation::Interface": {
             "ParameterGroups": [
                 {
