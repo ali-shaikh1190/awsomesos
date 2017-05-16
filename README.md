@@ -36,7 +36,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                 </tr>
                 <tr>
                     <td>
-                        <a href="https://console.aws.amazon.com/cloudformation/home?#/stacks/new?&templateURL=https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml" target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
+                        <a href="https://console.aws.amazon.com/cloudformation/home?#/stacks/new?&templateURL=https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/fyktDVxNzfN32Hm/multi-master-multi-az-efs.json" target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
                     </td>
                 </tr >
  </table>
@@ -48,7 +48,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                 </tr>
                 <tr>
                     <td >
-                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/BSe6syEHbZP8Yhw/template1-designer.png" width:40% alt="View in Designer"></a>
+                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/fyktDVxNzfN32Hm/multi-master-multi-az-efs.json" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/BSe6syEHbZP8Yhw/template1-designer.png" width:40% alt="View in Designer"></a>
                     </td>
                </tr>
 </table>
