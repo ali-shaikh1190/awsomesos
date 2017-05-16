@@ -13,11 +13,11 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
         <td>
             <h6>Create Details</h6>
             <ol>
-             <li>VPC</li>
-             <li>3 Public Subnets</li>
-             <li>3 Private Subnet's with Nat GW Attached</li>
-             <li>EFS with 3 mount Target's in Private Subnet's</li>
-             <li> Default 3 Master Nodes Configured in Publc Seubnet</li>
+             <li> VPC</li>
+             <li> 3 Public Subnets</li>
+             <li> 3 Private Subnet's with Nat GW Attached</li>
+             <li> EFS with 3 mount Target's in Private Subnet's</li>
+             <li> Default 3 Master Nodes Configured in Publc Subnet</li>
              <li> Default 1 Public Slave Node Configured in Publc Subnet</li>
              <li> Default 1 Private Node Configured in Private Subnet</li>
              <li> Default Instance Type m3.xlarge</li>
