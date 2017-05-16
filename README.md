@@ -39,7 +39,9 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                         <a href="https://console.aws.amazon.com/cloudformation/home?#/stacks/new?&templateURL=https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml" target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
                     </td>
                 </tr >
-            
+ </table>
+ 
+<table width="100"%>
            <td nowrap width="200" valign="top">
                 <tr>
                     <th align="left">View in Designer</th>
@@ -50,5 +52,3 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                     </td>
                </tr>
 </table>
-
-
