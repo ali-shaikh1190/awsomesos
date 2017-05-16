@@ -23,9 +23,10 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
              <li> Default 1 Private Node Configured in Private Subnet</li>
              <li> Default Instance Type m3.xlarge</li>
              <li> CoreOS AMI</li>
-
+             </td>
              <br>
-                               
+             <br>
+
              <table>
                 <tr>
                     <th align="left">Launch</th>
@@ -47,9 +48,5 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                     </td>
                 </tr>
             </table>
-             
-        </td>
-       
-            
        </tr>
 </table>
