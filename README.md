@@ -10,7 +10,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
         <th align="left" colspan="2"><h4><a href="https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml">Infrastructure</a></h4></th>
     </tr>
     <tr>
-        <td width="100%" valign="top">
+        <td>
             <p>Select the foundational pieces for building out an infrastructure from the ground up.</p>
             <h6>Create Details</h6>
             <ol>
@@ -24,8 +24,9 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
              <li> Default Instance Type m3.xlarge</li>
              <li> CoreOS AMI</li>
           </td>
-     </tr>
-     
+          </tr> 
+          <tr>
+            <td nowrap width="200" valign="top">
              <table>
                 <tr>
                     <th align="left">Launch</th>
@@ -47,4 +48,6 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                     </td>
                 </tr>
             </table>
+            </td>
+            </tr>
 </table>
