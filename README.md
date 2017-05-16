@@ -26,7 +26,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
           </td>
           </tr> 
           <tr>
-            <td nowrap width="200" valign="top">
+            <td>
              <table>
                 <tr>
                     <th align="left">Launch</th>
@@ -37,7 +37,8 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                     </td>
                 </tr>
             </table>
-            
+            </td>
+            <td nowrap width="200" valign="top">
             <table>
                 <tr>
                     <th align="left">View in Designer</th>
