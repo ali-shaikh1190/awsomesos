@@ -38,7 +38,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
                 </tr>
             </table>
             </td>
-            <td nowrap width="200" valign="top">
+            <td >
             <table>
                 <tr>
                     <th align="left">View in Designer</th>
