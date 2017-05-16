@@ -29,7 +29,7 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
  
 <table width="100%">
           <tr>
-            <td nowrap width="200" valign="top">
+            <td>
             </tr>
                 <tr>
                     <th align="left">Launch</th>
@@ -42,13 +42,13 @@ The Following Template creates a Stable DC/OS 1.9 Stack with EFS Mounted on publ
  </table>
  
 <table width="100"%>
-           <td nowrap width="200" valign="top">
+           <td >
                 <tr>
                     <th align="left">View in Designer</th>
                 </tr>
                 <tr>
-                    <td nowrap width="200">
-                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=useast-1&templateURL=https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/BSe6syEHbZP8Yhw/template1-designer.png" width:40% alt="View in Designer"></a>
+                    <td >
+                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://github.com/ali-shaikh1190/awsomesos/blob/master/cloudformation/multi-master-multi-az-efs.yaml" target="_blank"><img src="https://s3-ap-southeast-1.amazonaws.com/uploads-ap.hipchat.com/6719/959520/BSe6syEHbZP8Yhw/template1-designer.png" width:40% alt="View in Designer"></a>
                     </td>
                </tr>
 </table>
